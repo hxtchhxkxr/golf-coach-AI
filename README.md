@@ -1,46 +1,46 @@
-# 🏌️ Golf Coach AI
+# Golf Coach AI
 
 AI 기반 골프 스윙 분석 및 코칭 모바일 애플리케이션
 
-## 📖 프로젝트 개요
+## 프로젝트 개요
 
 Golf Coach AI는 Flutter로 개발된 모바일 애플리케이션으로, AI 기술을 활용하여 골프 스윙을 분석하고 개인 맞춤형 코칭을 제공합니다. 초보자부터 중급자까지 골프 실력 향상을 위한 종합적인 솔루션을 제공합니다.
 
-## 📊 발표자료
+## 발표자료
 
 <a href="./docs/%EC%A1%B8%ED%94%84%20ppt%20%EC%B5%9C%EC%A2%85.pdf">
   <img src="https://img.shields.io/badge/PDF-졸업프로젝트%20발표자료-red?style=flat-square&logo=adobeacrobatreader&logoColor=white">
 </a>
 
-## 📦 관련 저장소
+## 관련 저장소
 
-- **🏌️ Frontend (Mobile)**: [golf-coach-AI](https://github.com/your-username/golf-coach-AI) (현재 저장소)
-- **🖥️ Backend Server**: [golf-coach-backend](https://github.com/tama0728/golf-coach-backend.git)
+- **Frontend (Mobile)**: [golf-coach-AI](https://github.com/your-username/golf-coach-AI) (현재 저장소)
+- **Backend Server**: [golf-coach-backend](https://github.com/tama0728/golf-coach-backend.git)
 
-## ✨ 주요 기능
+## 주요 기능
 
-### 🎥 AI 스윙 분석
+### AI 스윙 분석
 - **실시간 비디오 촬영**: 카메라를 이용한 골프 스윙 영상 촬영
 - **AI 기반 분석**: 머신러닝을 통한 스윙 자세 및 동작 분석
 - **비디오 편집**: 분석을 위한 영상 트리밍 및 편집 기능
 - **결과 시각화**: 분석 결과를 직관적인 UI로 제공
 
-### 🏠 홈 대시보드
+### 홈 대시보드
 - **개인 기록 관리**: 사용자의 골프 기록 및 통계 확인
 - **추천 영상**: 사용자 수준에 맞는 골프 교육 영상 추천
 - **공지사항**: 앱 업데이트 및 중요 정보 전달
 
-### 📚 골프 입문 가이드북
+### 골프 입문 가이드북
 - **기본 개념**: 골프 규칙, 용어, 장비 소개
 - **스윙 동작**: 8단계 스윙 동작 상세 설명
 - **매너 및 팁**: 골프 에티켓과 실전 팁 제공
 
-### 👤 사용자 관리
+### 사용자 관리
 - **회원가입/로그인**: 안전한 JWT 토큰 기반 인증
 - **프로필 관리**: 개인 정보 및 프로필 이미지 설정
 - **자동 로그인**: 보안 저장소를 통한 편리한 접근
 
-## 🛠️ 기술 스택
+## 기술 스택
 
 ### Frontend (Mobile)
 - **Flutter**: 크로스 플랫폼 모바일 앱 개발
@@ -65,7 +65,7 @@ Golf Coach AI는 Flutter로 개발된 모바일 애플리케이션으로, AI 기
 - **Video Trimmer**: 영상 구간 편집
 - **Image Picker**: 이미지/비디오 선택
 
-## 📱 앱 구조
+## 앱 구조
 
 ```
 lib/
@@ -99,7 +99,7 @@ lib/
     └── profile_image_provider.dart
 ```
 
-## 🚀 시작하기
+## 시작하기
 
 ### 요구사항
 - Flutter SDK 3.6.1 이상
@@ -150,7 +150,7 @@ flutter run
 - **저장소 권한**: 영상 저장을 위한 저장소 접근 권한 필요
 - **네트워크 권한**: 서버 통신을 위한 인터넷 연결 필요
 
-## 📦 주요 의존성
+## 주요 의존성
 
 ```yaml
 dependencies:
@@ -165,14 +165,14 @@ dependencies:
   permission_handler: ^12.0.0+1   # 권한 관리
 ```
 
-## 🔐 보안 및 개인정보
+## 보안 및 개인정보
 
 - **JWT 토큰**: 안전한 사용자 인증
 - **Secure Storage**: 민감 정보 암호화 저장
 - **권한 관리**: 필요한 권한만 요청
 - **HTTPS 통신**: 데이터 전송 암호화
 
-## 🤝 기여하기
+## 기여하기
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -180,7 +180,7 @@ dependencies:
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 라이센스
+## 라이센스
 
 ### 프로젝트 라이센스
 이 프로젝트는 **MIT 라이센스** 하에 배포됩니다.
@@ -229,10 +229,10 @@ SOFTWARE.
 - 사용으로 인해 발생하는 손해에 대해 개발자는 책임지지 않습니다
 - AI 분석 결과는 참고용이며, 전문적인 골프 코칭을 대체하지 않습니다
 
-## 📞 연락처
+## 연락처
 
 프로젝트에 대한 문의사항이나 버그 리포트는 이슈를 통해 남겨주세요.
 
-## 🙏 감사의 말
+## 감사의 말
 
 이 프로젝트는 골프를 사랑하는 모든 분들의 실력 향상을 위해 개발되었습니다. 피드백과 제안사항은 언제나 환영합니다.
