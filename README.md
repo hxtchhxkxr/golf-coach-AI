@@ -12,7 +12,7 @@ Golf Coach AI는 Flutter로 개발된 모바일 애플리케이션으로, AI 기
   <img src="https://img.shields.io/badge/PDF-졸업프로젝트%20발표자료-red?style=flat-square&logo=adobeacrobatreader&logoColor=white">
 </a>
 
-- [상명대학교 졸업작품 소개 — 골프 스윙 피드백 어플리케이션](https://cs.smu.ac.kr/cs/community/graduation_2025.do?mode=view&articleNo=765015&article.offset=0&articleLimit=30#/list)
+[상명대학교 졸업작품 소개](https://cs.smu.ac.kr/cs/community/graduation_2025.do?mode=view&articleNo=765015&article.offset=0&articleLimit=30#/list)
 
 ## 관련 저장소
 
