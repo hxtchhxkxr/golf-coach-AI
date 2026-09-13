@@ -6,11 +6,13 @@ AI 기반 골프 스윙 분석 및 코칭 모바일 애플리케이션
 
 Golf Coach AI는 Flutter로 개발된 모바일 애플리케이션으로, AI 기술을 활용하여 골프 스윙을 분석하고 개인 맞춤형 코칭을 제공합니다. 초보자부터 중급자까지 골프 실력 향상을 위한 종합적인 솔루션을 제공합니다.
 
-## 발표자료
+## 발표자료 및 졸업작품 소개
 
 <a href="./docs/%EC%A1%B8%ED%94%84%20ppt%20%EC%B5%9C%EC%A2%85.pdf">
   <img src="https://img.shields.io/badge/PDF-졸업프로젝트%20발표자료-red?style=flat-square&logo=adobeacrobatreader&logoColor=white">
 </a>
+
+- [상명대학교 졸업작품 소개 — 골프 스윙 피드백 어플리케이션](https://cs.smu.ac.kr/cs/community/graduation_2025.do?mode=view&articleNo=765015&article.offset=0&articleLimit=30#/list)
 
 ## 관련 저장소
 
